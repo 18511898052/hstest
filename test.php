@@ -3,6 +3,7 @@
 <?php
 
 echo 'hahaha';
+echo 'ajsfasf';
 /*
 git remote add develop(本地分支) http://xxxxxxxxxxxx(远程分支地址)
 git push -u origin develop:develop
